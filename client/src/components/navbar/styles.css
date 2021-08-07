@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    background-color: #2874f0;
+    padding: 10px;
+}
+
+.navbarUl{
+    display: flex;
+}
+
+.logo{
+    width: 75px;
+    height: fit-content;
+    margin-left: 180px;
+    margin-right: 15px;
+}
+
+.textArea{
+    resize: none;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    padding-top: 9px;
+    padding-left: 15px;
+    height: 35px;
+    font-size: 15px;
+    width: 35%;
+}
+
+.loginButton{
+    padding: 0 40px;
+    margin-left: 80px;
+    color: #2874f0;
+    font-weight: 750;
+}
+
+.navbarItem{
+    list-style-type: none;
+    padding-top: 7px;
+    padding-left: 50px;
+    color: white;
+    font-weight: 670;
+}
+
+.myAccount {
+    margin-left: 50px;
+}
+
+.myAccount BUTTON{
+    color: white;
+    font-weight: 600;
+}
